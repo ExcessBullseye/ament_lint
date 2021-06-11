@@ -441,7 +441,6 @@ _CPP_HEADERS = frozenset([
     'filesystem',
     'memory_resource',
     'optional',
-    'shared_mutex',
     'string_view',
     'variant',
     # 16.4.2.3 C++20 added headers
